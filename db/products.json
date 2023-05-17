@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Cocacola",
+      "desc": "Descripcion de una gaseosa"
+    },
+    {
+      "id": 2,
+      "name": "milanesassss",
+      "desc": "carnesss"
+    },
+    {
+      "id": 3,
+      "name": "milanesa",
+      "desc": "carne"
+    },
+    {
+      "id": "asasff",
+      "name": "caramelo",
+      "desc": "desc caramelo"
+    },
+    {
+      "id": "asasff",
+      "name": "caramelo",
+      "desc": "desc caramelo"
+    },
+    {
+      "id": 15,
+      "name": "caramelo",
+      "desc": "desccaramelo"
+    }
+  ]
+}
